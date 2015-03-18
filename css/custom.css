@@ -32,3 +32,16 @@
 #homepage-header span {
 	color: #fff;
 }
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .about-paragraph{
+    font-family: Raleway;
+    font-weight: 100;
+    font-size: 2em;
+    color: #B0B0B5;
+ }
