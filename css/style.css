@@ -155,10 +155,10 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #fafafa;
+	background-color: #000;
 	border-top: 1px solid #f3f3f3;
-	border-bottom: 1px solid #f3f3f3;
-	padding: 40px 0;
+	/*border-bottom: 1px solid #f3f3f3;*/
+	padding: 60px 0;
 }
 .section {
 	background-color: #ffffff;
@@ -430,7 +430,7 @@ textarea {
 	border-radius: 0px;
 }
 .modal-header {
-	background-color: #55acee;
+	background-color: #778899;
 	color: #ffffff;
 }
 .modal-header h4 {
