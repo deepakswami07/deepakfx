@@ -13,6 +13,7 @@ body {
 }
 .site-name {
 	font-family: 'Raleway', sans-serif;
+	padding-top: 12px;
 }
 html,
 body {
@@ -34,17 +35,34 @@ h5,
 h6 {
 	color: #333333;
 }
-h1 {
+/*h1 {
 	font-size: 38px;
 	font-weight: 700;
 	margin-bottom: 20px;
+	color: #111; 
+	font-weight: bold; 
+	letter-spacing: 2px; line-height: 1; 
+	text-align: center; 
+}*/
+
+h1 { color: #B0B0B5; 
+	font-family: 'Raleway',sans-serif; 
+	font-size: 50px; font-weight: 800; 
+	line-height: 72px; margin: 0 0 24px; 
+	text-align: center; 
+	letter-spacing: 1px;
+	text-transform: uppercase; 
+	text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
 }
+
 h2 {
 	font-size: 28px;
 	margin-bottom: 15px;
 }
 h3 {
 	font-size: 22px;
+	font-variant: small-caps;
+	letter-spacing: 1px;
 }
 h4 {
 	font-size: 18px;
@@ -442,6 +460,11 @@ textarea {
 	text-shadow: none;
 	filter: alpha(opacity=100);
 	opacity: 1;
+}
+
+.modal-title {
+	font-weight:300;letter-spacing:2px;color:#00FFF;font-variant: small-caps;
+	text-shadow: 3px 3px 0px #2c2e38, 1px 1px 0px #5c5f72;
 }
 
 /* Large devices (Large desktops 1200px and up) */
