@@ -52,12 +52,12 @@ h1 { color: #B0B0B5;
 	text-align: center; 
 	letter-spacing: 1px;
 	text-transform: uppercase; 
-	text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
 }
 
 h2 {
 	font-size: 28px;
 	margin-bottom: 15px;
+
 }
 h3 {
 	font-size: 22px;
@@ -562,6 +562,7 @@ textarea {
 		display: none;
 	}
 }
+
 
 /* Blocks/Widgets
 ----------------------------------------------------------------------------- */
